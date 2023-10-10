@@ -1,0 +1,8 @@
+IpeHub05,ch00001,NewChannelname01	
+IpeHub05,ch00002,NewChannelname02
+IpeHub05,ch00003,NewChannelname03
+IpeHub05,ch00004,NewChannelname04
+IpeHub05,ch00005,NewChannelname05
+IpeHub05,ch00006,NewChannelname06
+IpeHub05,ch00007,NewChannelname07
+IpeHub05,ch00008,NewChannelname08
